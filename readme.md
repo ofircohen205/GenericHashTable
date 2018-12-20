@@ -1,5 +1,4 @@
-ofirce
-312255847 Ofir Cohen
+Ofir Cohen
 
 ex1 - Computer Communication Course
 
